@@ -1,5 +1,5 @@
 # Python-Scikit-Learn-PCA-Breast-Cancer
-Using PCA to visualize breast cancer data from scikit-learn
+Using PCA to visualize breast cancer data with scikit-learn library.
 
 
 The purpose of this notebook was to practise the use of PCA for dimensionality reduction and classification. We downloaded a dataset from Scikit-Learn library. This dataset had 30 feature variables related to breast cancer. The target variable was classified into malignant vs benign. 
