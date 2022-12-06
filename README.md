@@ -2,7 +2,7 @@
 Using PCA to visualize breast cancer data with scikit-learn library.
 
 
-The purpose of this notebook was to practise the use of PCA for dimensionality reduction and classification. We downloaded a dataset from Scikit-Learn library. This dataset had 30 feature variables related to breast cancer. The target variable was classified into malignant vs benign. 
+The purpose of this notebook is to demonstrate knowledge in the use of PCA for dimensionality reduction and classification. We downloaded a dataset from Scikit-Learn library. This dataset had 30 feature variables related to breast cancer. The target variable was classified into malignant vs benign. 
 
 We were successfully able to reduce 30 features into 2 principal components and hereby show clear separation between benign and malignant cancers. 
 
